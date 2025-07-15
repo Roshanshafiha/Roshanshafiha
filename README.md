@@ -9,9 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Roshanshafiha](https://github.com/Roshanshafiha)
 
-- 💬 Ask me about **Nextflow , GitHub, Docker**
-
-- 📫 How to reach me **shafiharafi@gmail.com**
+- 💬 Ask me about **Nextflow , GitHub, Docker - Bioinformatics related queries**
 
 - ⚡ Fun fact **I love coding at night !**
 
